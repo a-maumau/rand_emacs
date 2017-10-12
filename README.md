@@ -1,4 +1,4 @@
-# Setup vim command to vim 80%, emacs 20% command.
+# Setup emacs command to emacs 80%, vim 20% command.
 for bash user
 ```
 $ ./setup.sh
