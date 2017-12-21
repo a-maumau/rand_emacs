@@ -6,7 +6,7 @@ chmod 755 ~/.rand_emacs.sh
 
 # please use ">>" not ">"
 echo ""                         >> ~/.bashrc
-echo "function emacs() {"         >> ~/.bashrc
+echo "function emacs() {"       >> ~/.bashrc
 echo "    ~/.rand_emacs.sh \$@" >> ~/.bashrc
 echo "}"                        >> ~/.bashrc
 
