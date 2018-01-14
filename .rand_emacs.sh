@@ -1,6 +1,6 @@
 if [ $(($RANDOM%10)) -lt 2 ];
 then
-	vim
+	vim $@
 else 
-	emacs
+	emacs $@
 fi
